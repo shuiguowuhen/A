@@ -1,0 +1,3 @@
+[submodule "moduleB"]
+	path = moduleB
+	url = https://github.com/shuiguowuhen/B.git
